@@ -1,0 +1,74 @@
+body {
+    margin: 5px;
+    padding: 15px;
+  }
+  
+  
+  .container-one {
+    height: 30vh;
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px;
+    box-sizing: border-box ;
+  }
+
+  .square-one {
+      height: 80%;
+      width: 30px;
+      background-color: purple;
+      padding: 10px;
+      margin: 14.3px;
+      float: left;
+  }
+
+  .square-two {
+    height: 163px;
+    width: 400px;
+    background-color: green;
+    margin-left: 5vh;
+    float: left
+  }
+
+  .circle-one {
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    background-color: lightblue;
+    display: inline-block;
+    float: right;
+    margin-right: 65vh;
+  }
+
+  .container-two {
+    height: 30vh;
+    width: 100%;
+    border: 5px dotted black;
+    padding: 10px;
+    box-sizing: border-box ;
+    margin-top: 1.5%;
+  }
+
+  .box-shadow {
+    
+    width: 166vh;
+    height: 115px;
+    background-color: lemonchiffon;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,.8);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,.8);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,.7);
+    margin: 0px;
+    padding: 20px;
+  }
+
+  .container-three {
+
+    text-align: center;
+    color: navy;
+    height: 30vh;
+    width: 40%;
+    border: 1px solid black;
+    padding: 35px;
+    box-sizing: border-box ;
+    margin: auto;
+    margin-top: 1.5%
+  }
